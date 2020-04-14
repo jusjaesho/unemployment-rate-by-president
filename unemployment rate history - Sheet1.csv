@@ -1,0 +1,807 @@
+date,value,president,party
+2/1/1953,2.6,Dwight Eisenhower,Republican
+3/1/1953,2.6,Dwight Eisenhower,Republican
+4/1/1953,2.7,Dwight Eisenhower,Republican
+5/1/1953,2.5,Dwight Eisenhower,Republican
+6/1/1953,2.5,Dwight Eisenhower,Republican
+7/1/1953,2.6,Dwight Eisenhower,Republican
+8/1/1953,2.7,Dwight Eisenhower,Republican
+9/1/1953,2.9,Dwight Eisenhower,Republican
+10/1/1953,3.1,Dwight Eisenhower,Republican
+11/1/1953,3.5,Dwight Eisenhower,Republican
+12/1/1953,4.5,Dwight Eisenhower,Republican
+1/1/1954,4.9,Dwight Eisenhower,Republican
+2/1/1954,5.2,Dwight Eisenhower,Republican
+3/1/1954,5.7,Dwight Eisenhower,Republican
+4/1/1954,5.9,Dwight Eisenhower,Republican
+5/1/1954,5.9,Dwight Eisenhower,Republican
+6/1/1954,5.6,Dwight Eisenhower,Republican
+7/1/1954,5.8,Dwight Eisenhower,Republican
+8/1/1954,6,Dwight Eisenhower,Republican
+9/1/1954,6.1,Dwight Eisenhower,Republican
+10/1/1954,5.7,Dwight Eisenhower,Republican
+11/1/1954,5.3,Dwight Eisenhower,Republican
+12/1/1954,5,Dwight Eisenhower,Republican
+1/1/1955,4.9,Dwight Eisenhower,Republican
+2/1/1955,4.7,Dwight Eisenhower,Republican
+3/1/1955,4.6,Dwight Eisenhower,Republican
+4/1/1955,4.7,Dwight Eisenhower,Republican
+5/1/1955,4.3,Dwight Eisenhower,Republican
+6/1/1955,4.2,Dwight Eisenhower,Republican
+7/1/1955,4,Dwight Eisenhower,Republican
+8/1/1955,4.2,Dwight Eisenhower,Republican
+9/1/1955,4.1,Dwight Eisenhower,Republican
+10/1/1955,4.3,Dwight Eisenhower,Republican
+11/1/1955,4.2,Dwight Eisenhower,Republican
+12/1/1955,4.2,Dwight Eisenhower,Republican
+1/1/1956,4,Dwight Eisenhower,Republican
+2/1/1956,3.9,Dwight Eisenhower,Republican
+3/1/1956,4.2,Dwight Eisenhower,Republican
+4/1/1956,4,Dwight Eisenhower,Republican
+5/1/1956,4.3,Dwight Eisenhower,Republican
+6/1/1956,4.3,Dwight Eisenhower,Republican
+7/1/1956,4.4,Dwight Eisenhower,Republican
+8/1/1956,4.1,Dwight Eisenhower,Republican
+9/1/1956,3.9,Dwight Eisenhower,Republican
+10/1/1956,3.9,Dwight Eisenhower,Republican
+11/1/1956,4.3,Dwight Eisenhower,Republican
+12/1/1956,4.2,Dwight Eisenhower,Republican
+1/1/1957,4.2,Dwight Eisenhower,Republican
+2/1/1957,3.9,Dwight Eisenhower,Republican
+3/1/1957,3.7,Dwight Eisenhower,Republican
+4/1/1957,3.9,Dwight Eisenhower,Republican
+5/1/1957,4.1,Dwight Eisenhower,Republican
+6/1/1957,4.3,Dwight Eisenhower,Republican
+7/1/1957,4.2,Dwight Eisenhower,Republican
+8/1/1957,4.1,Dwight Eisenhower,Republican
+9/1/1957,4.4,Dwight Eisenhower,Republican
+10/1/1957,4.5,Dwight Eisenhower,Republican
+11/1/1957,5.1,Dwight Eisenhower,Republican
+12/1/1957,5.2,Dwight Eisenhower,Republican
+1/1/1958,5.8,Dwight Eisenhower,Republican
+2/1/1958,6.4,Dwight Eisenhower,Republican
+3/1/1958,6.7,Dwight Eisenhower,Republican
+4/1/1958,7.4,Dwight Eisenhower,Republican
+5/1/1958,7.4,Dwight Eisenhower,Republican
+6/1/1958,7.3,Dwight Eisenhower,Republican
+7/1/1958,7.5,Dwight Eisenhower,Republican
+8/1/1958,7.4,Dwight Eisenhower,Republican
+9/1/1958,7.1,Dwight Eisenhower,Republican
+10/1/1958,6.7,Dwight Eisenhower,Republican
+11/1/1958,6.2,Dwight Eisenhower,Republican
+12/1/1958,6.2,Dwight Eisenhower,Republican
+1/1/1959,6,Dwight Eisenhower,Republican
+2/1/1959,5.9,Dwight Eisenhower,Republican
+3/1/1959,5.6,Dwight Eisenhower,Republican
+4/1/1959,5.2,Dwight Eisenhower,Republican
+5/1/1959,5.1,Dwight Eisenhower,Republican
+6/1/1959,5,Dwight Eisenhower,Republican
+7/1/1959,5.1,Dwight Eisenhower,Republican
+8/1/1959,5.2,Dwight Eisenhower,Republican
+9/1/1959,5.5,Dwight Eisenhower,Republican
+10/1/1959,5.7,Dwight Eisenhower,Republican
+11/1/1959,5.8,Dwight Eisenhower,Republican
+12/1/1959,5.3,Dwight Eisenhower,Republican
+1/1/1960,5.2,Dwight Eisenhower,Republican
+2/1/1960,4.8,Dwight Eisenhower,Republican
+3/1/1960,5.4,Dwight Eisenhower,Republican
+4/1/1960,5.2,Dwight Eisenhower,Republican
+5/1/1960,5.1,Dwight Eisenhower,Republican
+6/1/1960,5.4,Dwight Eisenhower,Republican
+7/1/1960,5.5,Dwight Eisenhower,Republican
+8/1/1960,5.6,Dwight Eisenhower,Republican
+9/1/1960,5.5,Dwight Eisenhower,Republican
+10/1/1960,6.1,Dwight Eisenhower,Republican
+11/1/1960,6.1,Dwight Eisenhower,Republican
+12/1/1960,6.6,Dwight Eisenhower,Republican
+1/1/1961,6.6,Dwight Eisenhower,Republican
+2/1/1961,6.9,John F. Kennedy,Democrat
+3/1/1961,6.9,John F. Kennedy,Democrat
+4/1/1961,7,John F. Kennedy,Democrat
+5/1/1961,7.1,John F. Kennedy,Democrat
+6/1/1961,6.9,John F. Kennedy,Democrat
+7/1/1961,7,John F. Kennedy,Democrat
+8/1/1961,6.6,John F. Kennedy,Democrat
+9/1/1961,6.7,John F. Kennedy,Democrat
+10/1/1961,6.5,John F. Kennedy,Democrat
+11/1/1961,6.1,John F. Kennedy,Democrat
+12/1/1961,6,John F. Kennedy,Democrat
+1/1/1962,5.8,John F. Kennedy,Democrat
+2/1/1962,5.5,John F. Kennedy,Democrat
+3/1/1962,5.6,John F. Kennedy,Democrat
+4/1/1962,5.6,John F. Kennedy,Democrat
+5/1/1962,5.5,John F. Kennedy,Democrat
+6/1/1962,5.5,John F. Kennedy,Democrat
+7/1/1962,5.4,John F. Kennedy,Democrat
+8/1/1962,5.7,John F. Kennedy,Democrat
+9/1/1962,5.6,John F. Kennedy,Democrat
+10/1/1962,5.4,John F. Kennedy,Democrat
+11/1/1962,5.7,John F. Kennedy,Democrat
+12/1/1962,5.5,Lyndon Johnson,Democrat
+1/1/1963,5.7,Lyndon Johnson,Democrat
+2/1/1963,5.9,Lyndon Johnson,Democrat
+3/1/1963,5.7,Lyndon Johnson,Democrat
+4/1/1963,5.7,Lyndon Johnson,Democrat
+5/1/1963,5.9,Lyndon Johnson,Democrat
+6/1/1963,5.6,Lyndon Johnson,Democrat
+7/1/1963,5.6,Lyndon Johnson,Democrat
+8/1/1963,5.4,Lyndon Johnson,Democrat
+9/1/1963,5.5,Lyndon Johnson,Democrat
+10/1/1963,5.5,Lyndon Johnson,Democrat
+11/1/1963,5.7,Lyndon Johnson,Democrat
+12/1/1963,5.5,Lyndon Johnson,Democrat
+1/1/1964,5.6,Lyndon Johnson,Democrat
+2/1/1964,5.4,Lyndon Johnson,Democrat
+3/1/1964,5.4,Lyndon Johnson,Democrat
+4/1/1964,5.3,Lyndon Johnson,Democrat
+5/1/1964,5.1,Lyndon Johnson,Democrat
+6/1/1964,5.2,Lyndon Johnson,Democrat
+7/1/1964,4.9,Lyndon Johnson,Democrat
+8/1/1964,5,Lyndon Johnson,Democrat
+9/1/1964,5.1,Lyndon Johnson,Democrat
+10/1/1964,5.1,Lyndon Johnson,Democrat
+11/1/1964,4.8,Lyndon Johnson,Democrat
+12/1/1964,5,Lyndon Johnson,Democrat
+1/1/1965,4.9,Lyndon Johnson,Democrat
+2/1/1965,5.1,Lyndon Johnson,Democrat
+3/1/1965,4.7,Lyndon Johnson,Democrat
+4/1/1965,4.8,Lyndon Johnson,Democrat
+5/1/1965,4.6,Lyndon Johnson,Democrat
+6/1/1965,4.6,Lyndon Johnson,Democrat
+7/1/1965,4.4,Lyndon Johnson,Democrat
+8/1/1965,4.4,Lyndon Johnson,Democrat
+9/1/1965,4.3,Lyndon Johnson,Democrat
+10/1/1965,4.2,Lyndon Johnson,Democrat
+11/1/1965,4.1,Lyndon Johnson,Democrat
+12/1/1965,4,Lyndon Johnson,Democrat
+1/1/1966,4,Lyndon Johnson,Democrat
+2/1/1966,3.8,Lyndon Johnson,Democrat
+3/1/1966,3.8,Lyndon Johnson,Democrat
+4/1/1966,3.8,Lyndon Johnson,Democrat
+5/1/1966,3.9,Lyndon Johnson,Democrat
+6/1/1966,3.8,Lyndon Johnson,Democrat
+7/1/1966,3.8,Lyndon Johnson,Democrat
+8/1/1966,3.8,Lyndon Johnson,Democrat
+9/1/1966,3.7,Lyndon Johnson,Democrat
+10/1/1966,3.7,Lyndon Johnson,Democrat
+11/1/1966,3.6,Lyndon Johnson,Democrat
+12/1/1966,3.8,Lyndon Johnson,Democrat
+1/1/1967,3.9,Lyndon Johnson,Democrat
+2/1/1967,3.8,Lyndon Johnson,Democrat
+3/1/1967,3.8,Lyndon Johnson,Democrat
+4/1/1967,3.8,Lyndon Johnson,Democrat
+5/1/1967,3.8,Lyndon Johnson,Democrat
+6/1/1967,3.9,Lyndon Johnson,Democrat
+7/1/1967,3.8,Lyndon Johnson,Democrat
+8/1/1967,3.8,Lyndon Johnson,Democrat
+9/1/1967,3.8,Lyndon Johnson,Democrat
+10/1/1967,4,Lyndon Johnson,Democrat
+11/1/1967,3.9,Lyndon Johnson,Democrat
+12/1/1967,3.8,Lyndon Johnson,Democrat
+1/1/1968,3.7,Lyndon Johnson,Democrat
+2/1/1968,3.8,Lyndon Johnson,Democrat
+3/1/1968,3.7,Lyndon Johnson,Democrat
+4/1/1968,3.5,Lyndon Johnson,Democrat
+5/1/1968,3.5,Lyndon Johnson,Democrat
+6/1/1968,3.7,Lyndon Johnson,Democrat
+7/1/1968,3.7,Lyndon Johnson,Democrat
+8/1/1968,3.5,Lyndon Johnson,Democrat
+9/1/1968,3.4,Lyndon Johnson,Democrat
+10/1/1968,3.4,Lyndon Johnson,Democrat
+11/1/1968,3.4,Lyndon Johnson,Democrat
+12/1/1968,3.4,Lyndon Johnson,Democrat
+1/1/1969,3.4,Lyndon Johnson,Democrat
+2/1/1969,3.4,Richard Nixon,Republican
+3/1/1969,3.4,Richard Nixon,Republican
+4/1/1969,3.4,Richard Nixon,Republican
+5/1/1969,3.4,Richard Nixon,Republican
+6/1/1969,3.5,Richard Nixon,Republican
+7/1/1969,3.5,Richard Nixon,Republican
+8/1/1969,3.5,Richard Nixon,Republican
+9/1/1969,3.7,Richard Nixon,Republican
+10/1/1969,3.7,Richard Nixon,Republican
+11/1/1969,3.5,Richard Nixon,Republican
+12/1/1969,3.5,Richard Nixon,Republican
+1/1/1970,3.9,Richard Nixon,Republican
+2/1/1970,4.2,Richard Nixon,Republican
+3/1/1970,4.4,Richard Nixon,Republican
+4/1/1970,4.6,Richard Nixon,Republican
+5/1/1970,4.8,Richard Nixon,Republican
+6/1/1970,4.9,Richard Nixon,Republican
+7/1/1970,5,Richard Nixon,Republican
+8/1/1970,5.1,Richard Nixon,Republican
+9/1/1970,5.4,Richard Nixon,Republican
+10/1/1970,5.5,Richard Nixon,Republican
+11/1/1970,5.9,Richard Nixon,Republican
+12/1/1970,6.1,Richard Nixon,Republican
+1/1/1971,5.9,Richard Nixon,Republican
+2/1/1971,5.9,Richard Nixon,Republican
+3/1/1971,6,Richard Nixon,Republican
+4/1/1971,5.9,Richard Nixon,Republican
+5/1/1971,5.9,Richard Nixon,Republican
+6/1/1971,5.9,Richard Nixon,Republican
+7/1/1971,6,Richard Nixon,Republican
+8/1/1971,6.1,Richard Nixon,Republican
+9/1/1971,6,Richard Nixon,Republican
+10/1/1971,5.8,Richard Nixon,Republican
+11/1/1971,6,Richard Nixon,Republican
+12/1/1971,6,Richard Nixon,Republican
+1/1/1972,5.8,Richard Nixon,Republican
+2/1/1972,5.7,Richard Nixon,Republican
+3/1/1972,5.8,Richard Nixon,Republican
+4/1/1972,5.7,Richard Nixon,Republican
+5/1/1972,5.7,Richard Nixon,Republican
+6/1/1972,5.7,Richard Nixon,Republican
+7/1/1972,5.6,Richard Nixon,Republican
+8/1/1972,5.6,Richard Nixon,Republican
+9/1/1972,5.5,Richard Nixon,Republican
+10/1/1972,5.6,Richard Nixon,Republican
+11/1/1972,5.3,Richard Nixon,Republican
+12/1/1972,5.2,Richard Nixon,Republican
+1/1/1973,4.9,Richard Nixon,Republican
+2/1/1973,5,Richard Nixon,Republican
+3/1/1973,4.9,Richard Nixon,Republican
+4/1/1973,5,Richard Nixon,Republican
+5/1/1973,4.9,Richard Nixon,Republican
+6/1/1973,4.9,Richard Nixon,Republican
+7/1/1973,4.8,Richard Nixon,Republican
+8/1/1973,4.8,Richard Nixon,Republican
+9/1/1973,4.8,Richard Nixon,Republican
+10/1/1973,4.6,Richard Nixon,Republican
+11/1/1973,4.8,Richard Nixon,Republican
+12/1/1973,4.9,Richard Nixon,Republican
+1/1/1974,5.1,Richard Nixon,Republican
+2/1/1974,5.2,Richard Nixon,Republican
+3/1/1974,5.1,Richard Nixon,Republican
+4/1/1974,5.1,Richard Nixon,Republican
+5/1/1974,5.1,Richard Nixon,Republican
+6/1/1974,5.4,Richard Nixon,Republican
+7/1/1974,5.5,Richard Nixon,Republican
+8/1/1974,5.5,Gerald Ford,Republican
+9/1/1974,5.9,Gerald Ford,Republican
+10/1/1974,6,Gerald Ford,Republican
+11/1/1974,6.6,Gerald Ford,Republican
+12/1/1974,7.2,Gerald Ford,Republican
+1/1/1975,8.1,Gerald Ford,Republican
+2/1/1975,8.1,Gerald Ford,Republican
+3/1/1975,8.6,Gerald Ford,Republican
+4/1/1975,8.8,Gerald Ford,Republican
+5/1/1975,9,Gerald Ford,Republican
+6/1/1975,8.8,Gerald Ford,Republican
+7/1/1975,8.6,Gerald Ford,Republican
+8/1/1975,8.4,Gerald Ford,Republican
+9/1/1975,8.4,Gerald Ford,Republican
+10/1/1975,8.4,Gerald Ford,Republican
+11/1/1975,8.3,Gerald Ford,Republican
+12/1/1975,8.2,Gerald Ford,Republican
+1/1/1976,7.9,Gerald Ford,Republican
+2/1/1976,7.7,Gerald Ford,Republican
+3/1/1976,7.6,Gerald Ford,Republican
+4/1/1976,7.7,Gerald Ford,Republican
+5/1/1976,7.4,Gerald Ford,Republican
+6/1/1976,7.6,Gerald Ford,Republican
+7/1/1976,7.8,Gerald Ford,Republican
+8/1/1976,7.8,Gerald Ford,Republican
+9/1/1976,7.6,Gerald Ford,Republican
+10/1/1976,7.7,Gerald Ford,Republican
+11/1/1976,7.8,Gerald Ford,Republican
+12/1/1976,7.8,Gerald Ford,Republican
+1/1/1977,7.5,Gerald Ford,Republican
+2/1/1977,7.6,Jimmy Carter,Democrat
+3/1/1977,7.4,Jimmy Carter,Democrat
+4/1/1977,7.2,Jimmy Carter,Democrat
+5/1/1977,7,Jimmy Carter,Democrat
+6/1/1977,7.2,Jimmy Carter,Democrat
+7/1/1977,6.9,Jimmy Carter,Democrat
+8/1/1977,7,Jimmy Carter,Democrat
+9/1/1977,6.8,Jimmy Carter,Democrat
+10/1/1977,6.8,Jimmy Carter,Democrat
+11/1/1977,6.8,Jimmy Carter,Democrat
+12/1/1977,6.4,Jimmy Carter,Democrat
+1/1/1978,6.4,Jimmy Carter,Democrat
+2/1/1978,6.3,Jimmy Carter,Democrat
+3/1/1978,6.3,Jimmy Carter,Democrat
+4/1/1978,6.1,Jimmy Carter,Democrat
+5/1/1978,6,Jimmy Carter,Democrat
+6/1/1978,5.9,Jimmy Carter,Democrat
+7/1/1978,6.2,Jimmy Carter,Democrat
+8/1/1978,5.9,Jimmy Carter,Democrat
+9/1/1978,6,Jimmy Carter,Democrat
+10/1/1978,5.8,Jimmy Carter,Democrat
+11/1/1978,5.9,Jimmy Carter,Democrat
+12/1/1978,6,Jimmy Carter,Democrat
+1/1/1979,5.9,Jimmy Carter,Democrat
+2/1/1979,5.9,Jimmy Carter,Democrat
+3/1/1979,5.8,Jimmy Carter,Democrat
+4/1/1979,5.8,Jimmy Carter,Democrat
+5/1/1979,5.6,Jimmy Carter,Democrat
+6/1/1979,5.7,Jimmy Carter,Democrat
+7/1/1979,5.7,Jimmy Carter,Democrat
+8/1/1979,6,Jimmy Carter,Democrat
+9/1/1979,5.9,Jimmy Carter,Democrat
+10/1/1979,6,Jimmy Carter,Democrat
+11/1/1979,5.9,Jimmy Carter,Democrat
+12/1/1979,6,Jimmy Carter,Democrat
+1/1/1980,6.3,Jimmy Carter,Democrat
+2/1/1980,6.3,Jimmy Carter,Democrat
+3/1/1980,6.3,Jimmy Carter,Democrat
+4/1/1980,6.9,Jimmy Carter,Democrat
+5/1/1980,7.5,Jimmy Carter,Democrat
+6/1/1980,7.6,Jimmy Carter,Democrat
+7/1/1980,7.8,Jimmy Carter,Democrat
+8/1/1980,7.7,Jimmy Carter,Democrat
+9/1/1980,7.5,Jimmy Carter,Democrat
+10/1/1980,7.5,Jimmy Carter,Democrat
+11/1/1980,7.5,Jimmy Carter,Democrat
+12/1/1980,7.2,Jimmy Carter,Democrat
+1/1/1981,7.5,Jimmy Carter,Democrat
+2/1/1981,7.4,Ronald Reagan,Republican
+3/1/1981,7.4,Ronald Reagan,Republican
+4/1/1981,7.2,Ronald Reagan,Republican
+5/1/1981,7.5,Ronald Reagan,Republican
+6/1/1981,7.5,Ronald Reagan,Republican
+7/1/1981,7.2,Ronald Reagan,Republican
+8/1/1981,7.4,Ronald Reagan,Republican
+9/1/1981,7.6,Ronald Reagan,Republican
+10/1/1981,7.9,Ronald Reagan,Republican
+11/1/1981,8.3,Ronald Reagan,Republican
+12/1/1981,8.5,Ronald Reagan,Republican
+1/1/1982,8.6,Ronald Reagan,Republican
+2/1/1982,8.9,Ronald Reagan,Republican
+3/1/1982,9,Ronald Reagan,Republican
+4/1/1982,9.3,Ronald Reagan,Republican
+5/1/1982,9.4,Ronald Reagan,Republican
+6/1/1982,9.6,Ronald Reagan,Republican
+7/1/1982,9.8,Ronald Reagan,Republican
+8/1/1982,9.8,Ronald Reagan,Republican
+9/1/1982,10.1,Ronald Reagan,Republican
+10/1/1982,10.4,Ronald Reagan,Republican
+11/1/1982,10.8,Ronald Reagan,Republican
+12/1/1982,10.8,Ronald Reagan,Republican
+1/1/1983,10.4,Ronald Reagan,Republican
+2/1/1983,10.4,Ronald Reagan,Republican
+3/1/1983,10.3,Ronald Reagan,Republican
+4/1/1983,10.2,Ronald Reagan,Republican
+5/1/1983,10.1,Ronald Reagan,Republican
+6/1/1983,10.1,Ronald Reagan,Republican
+7/1/1983,9.4,Ronald Reagan,Republican
+8/1/1983,9.5,Ronald Reagan,Republican
+9/1/1983,9.2,Ronald Reagan,Republican
+10/1/1983,8.8,Ronald Reagan,Republican
+11/1/1983,8.5,Ronald Reagan,Republican
+12/1/1983,8.3,Ronald Reagan,Republican
+1/1/1984,8,Ronald Reagan,Republican
+2/1/1984,7.8,Ronald Reagan,Republican
+3/1/1984,7.8,Ronald Reagan,Republican
+4/1/1984,7.7,Ronald Reagan,Republican
+5/1/1984,7.4,Ronald Reagan,Republican
+6/1/1984,7.2,Ronald Reagan,Republican
+7/1/1984,7.5,Ronald Reagan,Republican
+8/1/1984,7.5,Ronald Reagan,Republican
+9/1/1984,7.3,Ronald Reagan,Republican
+10/1/1984,7.4,Ronald Reagan,Republican
+11/1/1984,7.2,Ronald Reagan,Republican
+12/1/1984,7.3,Ronald Reagan,Republican
+1/1/1985,7.3,Ronald Reagan,Republican
+2/1/1985,7.2,Ronald Reagan,Republican
+3/1/1985,7.2,Ronald Reagan,Republican
+4/1/1985,7.3,Ronald Reagan,Republican
+5/1/1985,7.2,Ronald Reagan,Republican
+6/1/1985,7.4,Ronald Reagan,Republican
+7/1/1985,7.4,Ronald Reagan,Republican
+8/1/1985,7.1,Ronald Reagan,Republican
+9/1/1985,7.1,Ronald Reagan,Republican
+10/1/1985,7.1,Ronald Reagan,Republican
+11/1/1985,7,Ronald Reagan,Republican
+12/1/1985,7,Ronald Reagan,Republican
+1/1/1986,6.7,Ronald Reagan,Republican
+2/1/1986,7.2,Ronald Reagan,Republican
+3/1/1986,7.2,Ronald Reagan,Republican
+4/1/1986,7.1,Ronald Reagan,Republican
+5/1/1986,7.2,Ronald Reagan,Republican
+6/1/1986,7.2,Ronald Reagan,Republican
+7/1/1986,7,Ronald Reagan,Republican
+8/1/1986,6.9,Ronald Reagan,Republican
+9/1/1986,7,Ronald Reagan,Republican
+10/1/1986,7,Ronald Reagan,Republican
+11/1/1986,6.9,Ronald Reagan,Republican
+12/1/1986,6.6,Ronald Reagan,Republican
+1/1/1987,6.6,Ronald Reagan,Republican
+2/1/1987,6.6,Ronald Reagan,Republican
+3/1/1987,6.6,Ronald Reagan,Republican
+4/1/1987,6.3,Ronald Reagan,Republican
+5/1/1987,6.3,Ronald Reagan,Republican
+6/1/1987,6.2,Ronald Reagan,Republican
+7/1/1987,6.1,Ronald Reagan,Republican
+8/1/1987,6,Ronald Reagan,Republican
+9/1/1987,5.9,Ronald Reagan,Republican
+10/1/1987,6,Ronald Reagan,Republican
+11/1/1987,5.8,Ronald Reagan,Republican
+12/1/1987,5.7,Ronald Reagan,Republican
+1/1/1988,5.7,Ronald Reagan,Republican
+2/1/1988,5.7,Ronald Reagan,Republican
+3/1/1988,5.7,Ronald Reagan,Republican
+4/1/1988,5.4,Ronald Reagan,Republican
+5/1/1988,5.6,Ronald Reagan,Republican
+6/1/1988,5.4,Ronald Reagan,Republican
+7/1/1988,5.4,Ronald Reagan,Republican
+8/1/1988,5.6,Ronald Reagan,Republican
+9/1/1988,5.4,Ronald Reagan,Republican
+10/1/1988,5.4,Ronald Reagan,Republican
+11/1/1988,5.3,Ronald Reagan,Republican
+12/1/1988,5.3,Ronald Reagan,Republican
+1/1/1989,5.4,Ronald Reagan,Republican
+2/1/1989,5.2,George H.W. Bush,Republican
+3/1/1989,5,George H.W. Bush,Republican
+4/1/1989,5.2,George H.W. Bush,Republican
+5/1/1989,5.2,George H.W. Bush,Republican
+6/1/1989,5.3,George H.W. Bush,Republican
+7/1/1989,5.2,George H.W. Bush,Republican
+8/1/1989,5.2,George H.W. Bush,Republican
+9/1/1989,5.3,George H.W. Bush,Republican
+10/1/1989,5.3,George H.W. Bush,Republican
+11/1/1989,5.4,George H.W. Bush,Republican
+12/1/1989,5.4,George H.W. Bush,Republican
+1/1/1990,5.4,George H.W. Bush,Republican
+2/1/1990,5.3,George H.W. Bush,Republican
+3/1/1990,5.2,George H.W. Bush,Republican
+4/1/1990,5.4,George H.W. Bush,Republican
+5/1/1990,5.4,George H.W. Bush,Republican
+6/1/1990,5.2,George H.W. Bush,Republican
+7/1/1990,5.5,George H.W. Bush,Republican
+8/1/1990,5.7,George H.W. Bush,Republican
+9/1/1990,5.9,George H.W. Bush,Republican
+10/1/1990,5.9,George H.W. Bush,Republican
+11/1/1990,6.2,George H.W. Bush,Republican
+12/1/1990,6.3,George H.W. Bush,Republican
+1/1/1991,6.4,George H.W. Bush,Republican
+2/1/1991,6.6,George H.W. Bush,Republican
+3/1/1991,6.8,George H.W. Bush,Republican
+4/1/1991,6.7,George H.W. Bush,Republican
+5/1/1991,6.9,George H.W. Bush,Republican
+6/1/1991,6.9,George H.W. Bush,Republican
+7/1/1991,6.8,George H.W. Bush,Republican
+8/1/1991,6.9,George H.W. Bush,Republican
+9/1/1991,6.9,George H.W. Bush,Republican
+10/1/1991,7,George H.W. Bush,Republican
+11/1/1991,7,George H.W. Bush,Republican
+12/1/1991,7.3,George H.W. Bush,Republican
+1/1/1992,7.3,George H.W. Bush,Republican
+2/1/1992,7.4,George H.W. Bush,Republican
+3/1/1992,7.4,George H.W. Bush,Republican
+4/1/1992,7.4,George H.W. Bush,Republican
+5/1/1992,7.6,George H.W. Bush,Republican
+6/1/1992,7.8,George H.W. Bush,Republican
+7/1/1992,7.7,George H.W. Bush,Republican
+8/1/1992,7.6,George H.W. Bush,Republican
+9/1/1992,7.6,George H.W. Bush,Republican
+10/1/1992,7.3,George H.W. Bush,Republican
+11/1/1992,7.4,George H.W. Bush,Republican
+12/1/1992,7.4,George H.W. Bush,Republican
+1/1/1993,7.3,George H.W. Bush,Republican
+2/1/1993,7.1,Bill Clinton,Democrat
+3/1/1993,7,Bill Clinton,Democrat
+4/1/1993,7.1,Bill Clinton,Democrat
+5/1/1993,7.1,Bill Clinton,Democrat
+6/1/1993,7,Bill Clinton,Democrat
+7/1/1993,6.9,Bill Clinton,Democrat
+8/1/1993,6.8,Bill Clinton,Democrat
+9/1/1993,6.7,Bill Clinton,Democrat
+10/1/1993,6.8,Bill Clinton,Democrat
+11/1/1993,6.6,Bill Clinton,Democrat
+12/1/1993,6.5,Bill Clinton,Democrat
+1/1/1994,6.6,Bill Clinton,Democrat
+2/1/1994,6.6,Bill Clinton,Democrat
+3/1/1994,6.5,Bill Clinton,Democrat
+4/1/1994,6.4,Bill Clinton,Democrat
+5/1/1994,6.1,Bill Clinton,Democrat
+6/1/1994,6.1,Bill Clinton,Democrat
+7/1/1994,6.1,Bill Clinton,Democrat
+8/1/1994,6,Bill Clinton,Democrat
+9/1/1994,5.9,Bill Clinton,Democrat
+10/1/1994,5.8,Bill Clinton,Democrat
+11/1/1994,5.6,Bill Clinton,Democrat
+12/1/1994,5.5,Bill Clinton,Democrat
+1/1/1995,5.6,Bill Clinton,Democrat
+2/1/1995,5.4,Bill Clinton,Democrat
+3/1/1995,5.4,Bill Clinton,Democrat
+4/1/1995,5.8,Bill Clinton,Democrat
+5/1/1995,5.6,Bill Clinton,Democrat
+6/1/1995,5.6,Bill Clinton,Democrat
+7/1/1995,5.7,Bill Clinton,Democrat
+8/1/1995,5.7,Bill Clinton,Democrat
+9/1/1995,5.6,Bill Clinton,Democrat
+10/1/1995,5.5,Bill Clinton,Democrat
+11/1/1995,5.6,Bill Clinton,Democrat
+12/1/1995,5.6,Bill Clinton,Democrat
+1/1/1996,5.6,Bill Clinton,Democrat
+2/1/1996,5.5,Bill Clinton,Democrat
+3/1/1996,5.5,Bill Clinton,Democrat
+4/1/1996,5.6,Bill Clinton,Democrat
+5/1/1996,5.6,Bill Clinton,Democrat
+6/1/1996,5.3,Bill Clinton,Democrat
+7/1/1996,5.5,Bill Clinton,Democrat
+8/1/1996,5.1,Bill Clinton,Democrat
+9/1/1996,5.2,Bill Clinton,Democrat
+10/1/1996,5.2,Bill Clinton,Democrat
+11/1/1996,5.4,Bill Clinton,Democrat
+12/1/1996,5.4,Bill Clinton,Democrat
+1/1/1997,5.3,Bill Clinton,Democrat
+2/1/1997,5.2,Bill Clinton,Democrat
+3/1/1997,5.2,Bill Clinton,Democrat
+4/1/1997,5.1,Bill Clinton,Democrat
+5/1/1997,4.9,Bill Clinton,Democrat
+6/1/1997,5,Bill Clinton,Democrat
+7/1/1997,4.9,Bill Clinton,Democrat
+8/1/1997,4.8,Bill Clinton,Democrat
+9/1/1997,4.9,Bill Clinton,Democrat
+10/1/1997,4.7,Bill Clinton,Democrat
+11/1/1997,4.6,Bill Clinton,Democrat
+12/1/1997,4.7,Bill Clinton,Democrat
+1/1/1998,4.6,Bill Clinton,Democrat
+2/1/1998,4.6,Bill Clinton,Democrat
+3/1/1998,4.7,Bill Clinton,Democrat
+4/1/1998,4.3,Bill Clinton,Democrat
+5/1/1998,4.4,Bill Clinton,Democrat
+6/1/1998,4.5,Bill Clinton,Democrat
+7/1/1998,4.5,Bill Clinton,Democrat
+8/1/1998,4.5,Bill Clinton,Democrat
+9/1/1998,4.6,Bill Clinton,Democrat
+10/1/1998,4.5,Bill Clinton,Democrat
+11/1/1998,4.4,Bill Clinton,Democrat
+12/1/1998,4.4,Bill Clinton,Democrat
+1/1/1999,4.3,Bill Clinton,Democrat
+2/1/1999,4.4,Bill Clinton,Democrat
+3/1/1999,4.2,Bill Clinton,Democrat
+4/1/1999,4.3,Bill Clinton,Democrat
+5/1/1999,4.2,Bill Clinton,Democrat
+6/1/1999,4.3,Bill Clinton,Democrat
+7/1/1999,4.3,Bill Clinton,Democrat
+8/1/1999,4.2,Bill Clinton,Democrat
+9/1/1999,4.2,Bill Clinton,Democrat
+10/1/1999,4.1,Bill Clinton,Democrat
+11/1/1999,4.1,Bill Clinton,Democrat
+12/1/1999,4,Bill Clinton,Democrat
+1/1/2000,4,Bill Clinton,Democrat
+2/1/2000,4.1,Bill Clinton,Democrat
+3/1/2000,4,Bill Clinton,Democrat
+4/1/2000,3.8,Bill Clinton,Democrat
+5/1/2000,4,Bill Clinton,Democrat
+6/1/2000,4,Bill Clinton,Democrat
+7/1/2000,4,Bill Clinton,Democrat
+8/1/2000,4.1,Bill Clinton,Democrat
+9/1/2000,3.9,Bill Clinton,Democrat
+10/1/2000,3.9,Bill Clinton,Democrat
+11/1/2000,3.9,Bill Clinton,Democrat
+12/1/2000,3.9,Bill Clinton,Democrat
+1/1/2001,4.2,Bill Clinton,Democrat
+2/1/2001,4.2,George W. Bush,Republican
+3/1/2001,4.3,George W. Bush,Republican
+4/1/2001,4.4,George W. Bush,Republican
+5/1/2001,4.3,George W. Bush,Republican
+6/1/2001,4.5,George W. Bush,Republican
+7/1/2001,4.6,George W. Bush,Republican
+8/1/2001,4.9,George W. Bush,Republican
+9/1/2001,5,George W. Bush,Republican
+10/1/2001,5.3,George W. Bush,Republican
+11/1/2001,5.5,George W. Bush,Republican
+12/1/2001,5.7,George W. Bush,Republican
+1/1/2002,5.7,George W. Bush,Republican
+2/1/2002,5.7,George W. Bush,Republican
+3/1/2002,5.7,George W. Bush,Republican
+4/1/2002,5.9,George W. Bush,Republican
+5/1/2002,5.8,George W. Bush,Republican
+6/1/2002,5.8,George W. Bush,Republican
+7/1/2002,5.8,George W. Bush,Republican
+8/1/2002,5.7,George W. Bush,Republican
+9/1/2002,5.7,George W. Bush,Republican
+10/1/2002,5.7,George W. Bush,Republican
+11/1/2002,5.9,George W. Bush,Republican
+12/1/2002,6,George W. Bush,Republican
+1/1/2003,5.8,George W. Bush,Republican
+2/1/2003,5.9,George W. Bush,Republican
+3/1/2003,5.9,George W. Bush,Republican
+4/1/2003,6,George W. Bush,Republican
+5/1/2003,6.1,George W. Bush,Republican
+6/1/2003,6.3,George W. Bush,Republican
+7/1/2003,6.2,George W. Bush,Republican
+8/1/2003,6.1,George W. Bush,Republican
+9/1/2003,6.1,George W. Bush,Republican
+10/1/2003,6,George W. Bush,Republican
+11/1/2003,5.8,George W. Bush,Republican
+12/1/2003,5.7,George W. Bush,Republican
+1/1/2004,5.7,George W. Bush,Republican
+2/1/2004,5.6,George W. Bush,Republican
+3/1/2004,5.8,George W. Bush,Republican
+4/1/2004,5.6,George W. Bush,Republican
+5/1/2004,5.6,George W. Bush,Republican
+6/1/2004,5.6,George W. Bush,Republican
+7/1/2004,5.5,George W. Bush,Republican
+8/1/2004,5.4,George W. Bush,Republican
+9/1/2004,5.4,George W. Bush,Republican
+10/1/2004,5.5,George W. Bush,Republican
+11/1/2004,5.4,George W. Bush,Republican
+12/1/2004,5.4,George W. Bush,Republican
+1/1/2005,5.3,George W. Bush,Republican
+2/1/2005,5.4,George W. Bush,Republican
+3/1/2005,5.2,George W. Bush,Republican
+4/1/2005,5.2,George W. Bush,Republican
+5/1/2005,5.1,George W. Bush,Republican
+6/1/2005,5,George W. Bush,Republican
+7/1/2005,5,George W. Bush,Republican
+8/1/2005,4.9,George W. Bush,Republican
+9/1/2005,5,George W. Bush,Republican
+10/1/2005,5,George W. Bush,Republican
+11/1/2005,5,George W. Bush,Republican
+12/1/2005,4.9,George W. Bush,Republican
+1/1/2006,4.7,George W. Bush,Republican
+2/1/2006,4.8,George W. Bush,Republican
+3/1/2006,4.7,George W. Bush,Republican
+4/1/2006,4.7,George W. Bush,Republican
+5/1/2006,4.6,George W. Bush,Republican
+6/1/2006,4.6,George W. Bush,Republican
+7/1/2006,4.7,George W. Bush,Republican
+8/1/2006,4.7,George W. Bush,Republican
+9/1/2006,4.5,George W. Bush,Republican
+10/1/2006,4.4,George W. Bush,Republican
+11/1/2006,4.5,George W. Bush,Republican
+12/1/2006,4.4,George W. Bush,Republican
+1/1/2007,4.6,George W. Bush,Republican
+2/1/2007,4.5,George W. Bush,Republican
+3/1/2007,4.4,George W. Bush,Republican
+4/1/2007,4.5,George W. Bush,Republican
+5/1/2007,4.4,George W. Bush,Republican
+6/1/2007,4.6,George W. Bush,Republican
+7/1/2007,4.7,George W. Bush,Republican
+8/1/2007,4.6,George W. Bush,Republican
+9/1/2007,4.7,George W. Bush,Republican
+10/1/2007,4.7,George W. Bush,Republican
+11/1/2007,4.7,George W. Bush,Republican
+12/1/2007,5,George W. Bush,Republican
+1/1/2008,5,George W. Bush,Republican
+2/1/2008,4.9,George W. Bush,Republican
+3/1/2008,5.1,George W. Bush,Republican
+4/1/2008,5,George W. Bush,Republican
+5/1/2008,5.4,George W. Bush,Republican
+6/1/2008,5.6,George W. Bush,Republican
+7/1/2008,5.8,George W. Bush,Republican
+8/1/2008,6.1,George W. Bush,Republican
+9/1/2008,6.1,George W. Bush,Republican
+10/1/2008,6.5,George W. Bush,Republican
+11/1/2008,6.8,George W. Bush,Republican
+12/1/2008,7.3,George W. Bush,Republican
+1/1/2009,7.8,George W. Bush,Republican
+2/1/2009,8.3,Barack Obama,Democrat
+3/1/2009,8.7,Barack Obama,Democrat
+4/1/2009,9,Barack Obama,Democrat
+5/1/2009,9.4,Barack Obama,Democrat
+6/1/2009,9.5,Barack Obama,Democrat
+7/1/2009,9.5,Barack Obama,Democrat
+8/1/2009,9.6,Barack Obama,Democrat
+9/1/2009,9.8,Barack Obama,Democrat
+10/1/2009,10,Barack Obama,Democrat
+11/1/2009,9.9,Barack Obama,Democrat
+12/1/2009,9.9,Barack Obama,Democrat
+1/1/2010,9.8,Barack Obama,Democrat
+2/1/2010,9.8,Barack Obama,Democrat
+3/1/2010,9.9,Barack Obama,Democrat
+4/1/2010,9.9,Barack Obama,Democrat
+5/1/2010,9.6,Barack Obama,Democrat
+6/1/2010,9.4,Barack Obama,Democrat
+7/1/2010,9.4,Barack Obama,Democrat
+8/1/2010,9.5,Barack Obama,Democrat
+9/1/2010,9.5,Barack Obama,Democrat
+10/1/2010,9.4,Barack Obama,Democrat
+11/1/2010,9.8,Barack Obama,Democrat
+12/1/2010,9.3,Barack Obama,Democrat
+1/1/2011,9.1,Barack Obama,Democrat
+2/1/2011,9,Barack Obama,Democrat
+3/1/2011,9,Barack Obama,Democrat
+4/1/2011,9.1,Barack Obama,Democrat
+5/1/2011,9,Barack Obama,Democrat
+6/1/2011,9.1,Barack Obama,Democrat
+7/1/2011,9,Barack Obama,Democrat
+8/1/2011,9,Barack Obama,Democrat
+9/1/2011,9,Barack Obama,Democrat
+10/1/2011,8.8,Barack Obama,Democrat
+11/1/2011,8.6,Barack Obama,Democrat
+12/1/2011,8.5,Barack Obama,Democrat
+1/1/2012,8.3,Barack Obama,Democrat
+2/1/2012,8.3,Barack Obama,Democrat
+3/1/2012,8.2,Barack Obama,Democrat
+4/1/2012,8.2,Barack Obama,Democrat
+5/1/2012,8.2,Barack Obama,Democrat
+6/1/2012,8.2,Barack Obama,Democrat
+7/1/2012,8.2,Barack Obama,Democrat
+8/1/2012,8.1,Barack Obama,Democrat
+9/1/2012,7.8,Barack Obama,Democrat
+10/1/2012,7.8,Barack Obama,Democrat
+11/1/2012,7.7,Barack Obama,Democrat
+12/1/2012,7.9,Barack Obama,Democrat
+1/1/2013,8,Barack Obama,Democrat
+2/1/2013,7.7,Barack Obama,Democrat
+3/1/2013,7.5,Barack Obama,Democrat
+4/1/2013,7.6,Barack Obama,Democrat
+5/1/2013,7.5,Barack Obama,Democrat
+6/1/2013,7.5,Barack Obama,Democrat
+7/1/2013,7.3,Barack Obama,Democrat
+8/1/2013,7.2,Barack Obama,Democrat
+9/1/2013,7.2,Barack Obama,Democrat
+10/1/2013,7.2,Barack Obama,Democrat
+11/1/2013,6.9,Barack Obama,Democrat
+12/1/2013,6.7,Barack Obama,Democrat
+1/1/2014,6.6,Barack Obama,Democrat
+2/1/2014,6.7,Barack Obama,Democrat
+3/1/2014,6.7,Barack Obama,Democrat
+4/1/2014,6.2,Barack Obama,Democrat
+5/1/2014,6.3,Barack Obama,Democrat
+6/1/2014,6.1,Barack Obama,Democrat
+7/1/2014,6.2,Barack Obama,Democrat
+8/1/2014,6.1,Barack Obama,Democrat
+9/1/2014,5.9,Barack Obama,Democrat
+10/1/2014,5.7,Barack Obama,Democrat
+11/1/2014,5.8,Barack Obama,Democrat
+12/1/2014,5.6,Barack Obama,Democrat
+1/1/2015,5.7,Barack Obama,Democrat
+2/1/2015,5.5,Barack Obama,Democrat
+3/1/2015,5.4,Barack Obama,Democrat
+4/1/2015,5.4,Barack Obama,Democrat
+5/1/2015,5.6,Barack Obama,Democrat
+6/1/2015,5.3,Barack Obama,Democrat
+7/1/2015,5.2,Barack Obama,Democrat
+8/1/2015,5.1,Barack Obama,Democrat
+9/1/2015,5,Barack Obama,Democrat
+10/1/2015,5,Barack Obama,Democrat
+11/1/2015,5.1,Barack Obama,Democrat
+12/1/2015,5,Barack Obama,Democrat
+1/1/2016,4.9,Barack Obama,Democrat
+2/1/2016,4.9,Barack Obama,Democrat
+3/1/2016,5,Barack Obama,Democrat
+4/1/2016,5,Barack Obama,Democrat
+5/1/2016,4.8,Barack Obama,Democrat
+6/1/2016,4.9,Barack Obama,Democrat
+7/1/2016,4.8,Barack Obama,Democrat
+8/1/2016,4.9,Barack Obama,Democrat
+9/1/2016,5,Barack Obama,Democrat
+10/1/2016,4.9,Barack Obama,Democrat
+11/1/2016,4.7,Barack Obama,Democrat
+12/1/2016,4.7,Barack Obama,Democrat
+1/1/2017,4.7,Barack Obama,Democrat
+2/1/2017,4.6,Donald Trump,Republican
+3/1/2017,4.4,Donald Trump,Republican
+4/1/2017,4.4,Donald Trump,Republican
+5/1/2017,4.4,Donald Trump,Republican
+6/1/2017,4.3,Donald Trump,Republican
+7/1/2017,4.3,Donald Trump,Republican
+8/1/2017,4.4,Donald Trump,Republican
+9/1/2017,4.2,Donald Trump,Republican
+10/1/2017,4.1,Donald Trump,Republican
+11/1/2017,4.2,Donald Trump,Republican
+12/1/2017,4.1,Donald Trump,Republican
+1/1/2018,4.1,Donald Trump,Republican
+2/1/2018,4.1,Donald Trump,Republican
+3/1/2018,4,Donald Trump,Republican
+4/1/2018,4,Donald Trump,Republican
+5/1/2018,3.8,Donald Trump,Republican
+6/1/2018,4,Donald Trump,Republican
+7/1/2018,3.8,Donald Trump,Republican
+8/1/2018,3.8,Donald Trump,Republican
+9/1/2018,3.7,Donald Trump,Republican
+10/1/2018,3.8,Donald Trump,Republican
+11/1/2018,3.7,Donald Trump,Republican
+12/1/2018,3.9,Donald Trump,Republican
+1/1/2019,4,Donald Trump,Republican
+2/1/2019,3.8,Donald Trump,Republican
+3/1/2019,3.8,Donald Trump,Republican
+4/1/2019,3.6,Donald Trump,Republican
+5/1/2019,3.6,Donald Trump,Republican
+6/1/2019,3.7,Donald Trump,Republican
+7/1/2019,3.7,Donald Trump,Republican
+8/1/2019,3.7,Donald Trump,Republican
+9/1/2019,3.5,Donald Trump,Republican
+10/1/2019,3.6,Donald Trump,Republican
+11/1/2019,3.5,Donald Trump,Republican
+12/1/2019,3.5,Donald Trump,Republican
+1/1/2020,3.6,Donald Trump,Republican
+2/1/2020,3.5,Donald Trump,Republican
+3/1/2020,4.4,Donald Trump,Republican

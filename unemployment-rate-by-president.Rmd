@@ -1,0 +1,65 @@
+---
+title: "unemployment-rate-by-president"
+author: "Justin Shotwell"
+date: "4/12/2020"
+output: html_document
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include=FALSE, message=FALSE}
+
+library(tidyverse)
+library(lubridate)
+library(ggthemes)
+library(CGPfunctions)
+
+theme_set(theme_tufte())
+
+```
+
+The csv file that I am using is one that I put together myself. The data is from the bureau of labor services(bls.gov). I added the dates of each president and the president's political party before reading into R. 
+
+As the inauguration is on the 20th of the month, I credited the outgoing president with that month. For examples of assassination or impeachment, I gave credit for the month in question to the president that was president for more than half the month.
+
+For example, January of 2017 would be creditied to Barack Obama because he was president for 19 days and Donald Trump was president for 12 days.
+
+```{r, message=FALSE}
+
+unemployment_raw <- read_csv("unemployment rate history - Sheet1.csv") %>%
+  mutate(date = mdy(date))
+
+str(unemployment_raw)
+
+```
+
+```{r}
+
+by_president <- unemployment_raw %>%
+  group_by(president) %>%
+  summarize(start = value[1],
+            end = value[length(value)],
+            party = party[1]) %>%
+  gather(attribute, value, -president, -party) %>%
+  mutate(attribute = as_factor(attribute))
+
+```
+
+```{r, warning=FALSE}
+
+custom_colors <- if_else(by_president$party == "Democrat", "blue", "red")
+
+by_president %>%
+  newggslopegraph(attribute,
+                  value,
+                  president,
+                  Title = "Unemployment Rate Change by President", 
+                  SubTitle = "Does each President leave office with a better or worse rate?", 
+                  Caption = NULL,
+                  YTextSize = 4,
+                  DataTextSize = 3.5,
+                  LineColor = custom_colors,
+                  ThemeChoice = "tufte")
+
+```
+
